@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731837972416",
+    "project_id": "efikas-29b26",
+    "storage_bucket": "efikas-29b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731837972416:android:7902d63c2536e8132b5225",
+        "android_client_info": {
+          "package_name": "com.example.efikas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731837972416-li8aqeuidegrr5v8aqngvtm82hl0p0rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gdzjGP1qiZLC43X3TEHJZjnhD2DgZpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731837972416-li8aqeuidegrr5v8aqngvtm82hl0p0rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
